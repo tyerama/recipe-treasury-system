@@ -1,0 +1,19 @@
+Required python packages
+```
+pandas==1.4.1
+scikit-learn==1.0.2
+pymysql==1.0.2
+```
+
+### Instructions for Installing Dependencies
+
+1. Ensure Python and pip are installed:
+   - You need Python and pip (Python's package installer) installed on your system. You can check whether they are installed by running `python --version` and `pip --version` in your terminal or command prompt.
+
+   
+2. Install the Packages:
+     ```
+     pip install -r requirements.txt
+     ```
+
+These steps will install the necessary packages at the specified versions to ensure compatibility and proper functionality of your website's backend.
